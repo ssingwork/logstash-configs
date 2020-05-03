@@ -1,0 +1,1 @@
+.\logstash.bat -f logstash.conf --config.reload.automatic
